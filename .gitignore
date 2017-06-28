@@ -1,7 +1,7 @@
 
 #忽略
-**/node_modules/*
 node_modules/*
+issue
 npm-debug.log
 
 # Windows image file caches
